@@ -1,0 +1,83 @@
+/* src/Topbar.css */
+.topbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #130C2A;
+    color: #333;
+    height: 60px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .topbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar {
+    position: relative;
+    right: -140px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+  }
+  
+  .topbar-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .icon {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  
+  .notification {
+    position: relative;
+  }
+  
+  .badge {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 2px 5px;
+    font-size: 12px;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .profile-arrow {
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    margin-left: 5px;
+  }
+  @media (max-width: 1149px){
+    .topbar-container{
+      
+      width: 1144px;
+    }
+  }
+  .pp
+  {
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+  }
