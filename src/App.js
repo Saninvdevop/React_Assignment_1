@@ -1,16 +1,17 @@
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./pages/Dashboard/Dashboard";
 // import News from "./pages/News";
-
+import About from "./pages/About/About";
 // import Transactions from "./pages/Transactions";
-import About from "./pages/About";
+
 import Sidebar from "./components/Sidebar";
 import Topbar from "./components/Topbar";
-import ProductDetails from "./pages/ProductDetails"; // Import the ProductDetails component
-import products from "./productData";
-import Analytics from "./pages/Analytics";
-import Comment from "./pages/Comment";
+import ProductDetails from "./pages/product/ProductDetails";
+import Analytics from "./pages/Analytic/Analytics";
+// import products from "./productData";
+import Comment from "./pages/Comment/Comment";
+
 
 
 function App() {

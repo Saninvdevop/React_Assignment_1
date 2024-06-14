@@ -8,7 +8,7 @@ import Profile3 from "../Images/user4.png";
 import icon1 from "../Images/ordericon.png";
 import icon2 from "../Images/customer.png";
 import icon3 from "../Images/dollar.png";
-import PieChart from "./PieChart";
+import PieChart from "../PieChart";
 
 const Dashboard = () => {
     return (
