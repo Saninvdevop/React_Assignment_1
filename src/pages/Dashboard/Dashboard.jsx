@@ -1,14 +1,15 @@
 import React from "react";
 import "./Dashboard.css";
-import Profile from "../Images/user1.jpeg";
-import Profile1 from "../Images/user2.jpeg";
-import Profile2 from "../Images/user3.jpeg";
-import Profile3 from "../Images/user4.png";
+import Profile from "../../Images/user1.jpeg";
+import Profile1 from "../../Images/user2.jpeg";
+import Profile2 from "../../Images/user3.jpeg";
+import Profile3 from "../../Images/user4.png";
 
-import icon1 from "../Images/ordericon.png";
-import icon2 from "../Images/customer.png";
-import icon3 from "../Images/dollar.png";
-import PieChart from "./PieChart";
+import icon1 from "../../Images/ordericon.png";
+import icon2 from "../../Images/customer.png";
+import icon3 from "../../Images/dollar.png";
+import PieChart from "../PieChart"; 
+
 
 const Dashboard = () => {
     return (

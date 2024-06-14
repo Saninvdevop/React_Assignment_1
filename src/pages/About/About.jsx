@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
-import icon1 from "../Images/icon4.png";
-import icon2 from "../Images/icon5.png";
+import icon1 from "../../Images/icon4.png";
+import icon2 from "../../Images/icon5.png";
 
 const About = () => {
     return (

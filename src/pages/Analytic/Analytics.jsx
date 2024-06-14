@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import products from "../productData"; // Import product data
+import products from "../../productData"; // Import product data
 
 const Analytics = () => {
   const [hovered, setHovered] = useState(null);
