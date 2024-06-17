@@ -84,7 +84,7 @@ const Dashboard = () => {
                     </div>
                 </div>
                 <div className="refunds-left">
-                    <h2>Refunds</h2>
+                    <h2 className="r">Refunds</h2>
                     <table className="refunds-table">
                         <thead>
                             <tr>

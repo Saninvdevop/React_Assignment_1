@@ -500,3 +500,217 @@ body, html {
        
     } */
 }
+@media (max-width:1920px) {
+   
+    
+    .hd12{
+        
+        position: relative !important;
+        right: 250px !important;
+        top:-150px;
+    }
+    .stat-item{
+
+      position: relative;
+      top: -120px !important;
+    }
+    .recent-orders{
+        width: 570px !important;
+        height: 390px!important;
+        position: relative !important;
+        right: 80px;
+    }
+    .orders-status{
+        width: 400px !important;
+        height: 390px!important;
+        margin-left: 120px !important;
+        position: relative !important;
+        right: 170px;
+    }
+    .refunds-left{
+        width: 370px !important;
+        height: 390px!important;
+        position: relative !important;
+        right: 140px;
+    }
+    .download-pdf{
+        
+        position: relative !important;
+        right: -360px !important;
+        top: -140px;
+    }
+}
+
+@media (max-width:1703px) {
+   
+    .hd12{
+        
+        position: relative !important;
+        right: 140px !important;
+        top:-150px;
+    }
+    .stat-item{
+
+        position: relative;
+        top: -120px !important;
+      }
+    
+}
+@media (max-width:1475px) {
+   
+    .hd12{
+        
+        position: relative !important;
+        right: 40px !important;
+        top:-150px;
+    }
+    
+}
+@media (max-width:1475px) {
+   
+    .hd12{
+        
+        position: relative !important;
+        right:20px !important;
+        top:-150px;
+    }
+    
+}
+@media (max-width:1241px) {
+   
+    .hd12{
+        
+        position: relative !important;
+        right:-90px !important;
+        top:-150px;
+    }
+    
+}
+@media (max-width:1194px) {
+   
+    .stat-item{
+        position: relative;
+        top: 10px;
+        left: -235px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        width: 20% !important;
+        margin-left: 200px; /* Adjust this value to reduce spacing */
+        margin-right: -30px; /* Adjust this value to reduce spacing */
+    }
+    
+}
+@media (max-width:1087px) {
+   
+    .stat-item{
+        position: relative;
+        top: 10px;
+        left: -315px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        width: 20% !important;
+        margin-left: 230px; /* Adjust this value to reduce spacing */
+        margin-right: -90px; /* Adjust this value to reduce spacing */
+    }
+    
+}
+@media (max-width:1165px) {
+   
+    .refunds-left{
+        width: 300px !important;
+        height: 390px!important;
+        position: relative !important;
+        right: 140px;
+        
+    }
+    .refunds-table{
+        width: 40% !important;
+    }
+    .r{
+        margin-left: 50px !important;
+       
+    }
+}
+
+@media (max-width:1045px) {
+   
+   .main-content{
+    margin-left: 2px !important;
+   }
+   .recent-orders{
+    width: 300px !important;
+    height: 490px!important;
+    position: relative !important;
+    right: 80px;
+}
+.tb1{
+    width: 50% !important;
+}
+}
+@media (max-width:845px) {
+   
+    .main-content{
+     margin-left: -20px !important;
+    }
+    .recent-orders{
+     width: 260px !important;
+     height: 490px!important;
+     position: relative !important;
+     right: 80px;
+ }
+ .tb1{
+     width: 10px !important;
+ }
+
+ }
+ @media (max-width:771px) {
+   
+    .main-content{
+     display: none !important;
+    }
+    
+
+ }
+ @media (max-width:1441px) {
+   
+    .stat-item{
+        position: relative !important;
+        top: 10px !important;
+    }
+    
+
+ }
+
+ @media (max-height:718px) {
+    .main-content{
+        margin-top: 110px !important;
+       }
+    .stat-item{
+        position: relative !important;
+        top: 90px !important;
+    }
+    
+
+ }
+
+ @media (max-height:640px) {
+    .main-content{
+        margin-top: 130px !important;
+       }
+    .stat-item{
+        position: relative !important;
+        top: 160px !important;
+    }
+    
+
+ }
+
+ 
+ 
+ 

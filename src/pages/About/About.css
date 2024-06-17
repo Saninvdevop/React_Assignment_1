@@ -1,6 +1,6 @@
 .transactions-container {
     position: relative !important;
-    top: -850px !important;
+    top: -815px !important;
     padding: 20px;
     font-family: 'Montserrat' !important;
     color: #333;
@@ -245,3 +245,111 @@ table td {
     color: #fff;
    
 }
+
+@media (max-height:768px) {
+   
+.transactions-container{
+    position: relative !important;
+    top: -770px !important;
+}
+.new-orders1{
+    position: relative !important;
+    right:810px !important;
+}
+.customers1{
+    position: relative !important;
+    left: -600px;
+}
+ }
+ @media (max-height:754px) {
+   
+    .transactions-container{
+        position: relative !important;
+        top: -750px !important;
+    }
+     }
+     @media (max-height:733px) {
+   
+        .transactions-container{
+            position: relative !important;
+            top: -730px !important;
+        }
+         }
+         @media (max-height:711px) {
+   
+            .transactions-container{
+                position: relative !important;
+                top: -710px !important;
+            }
+             }
+             @media (max-height:709px) {
+   
+             .summary-item{
+                position: relative !important;
+                top: 20px !important;
+             }
+                
+                 }
+             @media (max-height:651px) {
+   
+                .transactions-container{
+                    position: relative !important;
+                    top: -650px !important;
+                }
+               
+                 }
+                 @media (max-height:705px) {
+   
+                    .transactions-table{
+                        position: relative !important;
+                        top: 20px !important;
+                    }
+                   
+                     }
+                     @media (max-height:647px) {
+   
+                        .transactions-table{
+                           height: 320px !important;
+                        }
+                       
+                         }
+
+
+                         
+@media (max-width:1340px) {
+   
+    
+    .new-orders1{
+        position: relative !important;
+        right:790px !important;
+    }
+    .customers1{
+        position: relative !important;
+        left: -590px;
+    }
+     }
+     @media (max-width:1298px) {
+   
+    
+        .new-orders1{
+            position: relative !important;
+            right:760px !important;
+        }
+        .customers1{
+            position: relative !important;
+            left: -565px;
+        }
+         }
+
+         @media (max-width:1264px) {
+   
+    
+            .new-orders1{
+                position: relative !important;
+                right:730px !important;
+            }
+            .customers1{
+                position: relative !important;
+                left: -545px;
+            }
+             }
